@@ -20,4 +20,4 @@ sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
 # Change Kernel
-sed -i 's/KERNEL_PATCHVER=5.15/KERNEL_PATCHVER=6.1/g' target/linux/rockchip/Makefile
+#sed -i 's/KERNEL_PATCHVER=5.15/KERNEL_PATCHVER=6.1/g' target/linux/rockchip/Makefile
