@@ -1,3 +1,6 @@
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
+src-git packages https://github.com/mdaylight/lede-packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://github.com/coolsnowwolf/routing
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main
