@@ -16,7 +16,7 @@
 
 ## 如何下载
 - 前往release页面，找到所需对应日期的版本
-- 在assests中，找到squashfs efi img.gz字样的文件
+- 在assests中，找到squashfs img.gz字样的文件
 - 单击即可下载
 
 ####  [点击这里前往版本页面](https://github.com/mdaylight/actions-openwrt-fastrhino-r68s/releases)
